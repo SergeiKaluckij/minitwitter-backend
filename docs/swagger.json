@@ -1,0 +1,12 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "Description",
+        "title": "Minitwitter API",
+        "contact": {},
+        "version": "1.0.0"
+    },
+    "host": "localhost:9001",
+    "basePath": "/api/v1",
+    "paths": {}
+}

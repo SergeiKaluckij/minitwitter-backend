@@ -1,0 +1,9 @@
+basePath: /api/v1
+host: localhost:9001
+info:
+  contact: {}
+  description: Description
+  title: Minitwitter API
+  version: 1.0.0
+paths: {}
+swagger: "2.0"
